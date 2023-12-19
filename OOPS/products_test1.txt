@@ -1,0 +1,2 @@
+E001, E001, High-end phone, 10, 499.99
+C001, C001, Cotton T-shirt, 20, 29.99
